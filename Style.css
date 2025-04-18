@@ -1,4 +1,4 @@
-#titles{
+#Titles{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: darkblue;
@@ -6,7 +6,7 @@
     margin: 50px;
 }
 
-.input{
+.Input{
     text-align: center;
     font-size: 30px;
     color: red;
@@ -18,10 +18,18 @@
 }
 
 .btn1{
-    color: rgb(37, 228, 19);
+    color: brown;
     font-size: large;
+    width: 70px;
+    text-align: center;
 }
 
 .btn1:hover{
     background-color: brown;
+    color: white;
+}
+
+.Img{
+   text-align: center;
+   
 }
