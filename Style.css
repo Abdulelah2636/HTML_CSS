@@ -1,0 +1,27 @@
+#titles{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    background-color: cadetblue;
+    margin: 50px;
+}
+
+.input{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+
+.btn{
+    text-align: center;
+
+}
+
+.btn1{
+    color: rgb(37, 228, 19);
+    font-size: large;
+}
+
+.btn1:hover{
+    background-color: brown;
+}
